@@ -1,0 +1,33 @@
+name: evglyco-azoospermia
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - python=3.12
+  - r-base=4.3
+  - numpy
+  - pandas
+  - matplotlib
+  - scikit-learn=1.4.2
+  - xgboost
+  - shap=0.46.0
+  - joblib
+  - openpyxl
+  - r-dplyr
+  - r-ggplot2
+  - r-ggrepel
+  - r-ggpubr
+  - r-ggsci
+  - r-openxlsx
+  - r-patchwork
+  - r-rcolorbrewer
+  - r-scales
+  - r-stringr
+  - r-umap
+  - r-desctools
+  - r-dendextend
+  - r-circlize
+  - bioconductor-mfuzz
+  - bioconductor-complexheatmap
+  - pip
