@@ -1,5 +1,7 @@
 # EVGlycoAzoospermia
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21936656.svg)](https://doi.org/10.5281/zenodo.21936656)
+
 ## Title
 
 Site-specific N-glycoproteomic analysis of extracellular vesicles from seminal plasma reveals the molecular typing of azoospermia
@@ -94,6 +96,12 @@ Rscript ANOVA_Mfuzz.R
 ## Notes for reviewer assessment
 
 The scripts intentionally keep their original folder-level input files so that they can be run directly without rewriting paths. Generated output figures are stored either in the same folder or in local `fig/` subfolders.
+
+## Citation
+
+Please cite the version of the analysis code archived on Zenodo:
+
+> Guo, X. & Ni, J. (2026). *Site-specific N-glycoproteomic analysis of extracellular vesicles from seminal plasma reveals the molecular typing of azoospermia* (Version 1.0.0) [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.21936656
 
 ## License
 
