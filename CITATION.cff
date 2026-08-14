@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the archived release below."
+title: "Site-specific N-glycoproteomic analysis of extracellular vesicles from seminal plasma reveals the molecular typing of azoospermia"
+version: 1.0.0
+date-released: 2026-08-14
+type: software
+license: MIT
+authors:
+  - given-names: "Xuejiang"
+    family-names: "Guo"
+  - given-names: "Jie"
+    family-names: "Ni"
+abstract: >-
+  Analysis code, example data, and representative outputs for the
+  EVGlyco-Azoospermia study. The repository contains R and Python workflows
+  for clustering, dimensionality reduction, differential analysis,
+  machine-learning comparison, SHAP interpretation, and ROC analysis.
+keywords:
+  - azoospermia
+  - extracellular vesicles
+  - N-glycoproteomics
+  - machine learning
+  - reproducible research
+repository-code: "https://github.com/XuejiangGuo/EVGlyco-Azoospermia"
+url: "https://github.com/XuejiangGuo/EVGlyco-Azoospermia"
